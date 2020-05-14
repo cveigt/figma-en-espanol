@@ -1,0 +1,23 @@
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+.display-4 {
+    font-weight: 700;
+}
+
+/*h1 {
+    font-size: 60px;
+    font-weight: 700;
+}*/
+
+.hero {
+    margin-top: 80px;
+}
+
+.lead {
+    font-weight: 400;
+}
